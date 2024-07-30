@@ -9,7 +9,6 @@ import lombok.Setter;
 @EqualsAndHashCode
 public class PersonData {
     private String name;
-    private Integer age;
     private String email;
 
 }
