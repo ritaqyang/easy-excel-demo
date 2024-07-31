@@ -8,7 +8,9 @@ import lombok.Setter;
 @Setter
 @EqualsAndHashCode
 public class PersonData {
-    private String name;
+    private String ipAddress;
+    private String firstName;
+    private String lastName;
     private String email;
 
 }
